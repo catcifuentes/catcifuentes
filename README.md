@@ -1,16 +1,23 @@
-## Hi there 👋
+✨ ¡Hola, soy Catalina! 👩‍💻🌱
 
-<!--
-**catcifuentes/catcifuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionada por el análisis de datos, la tecnología y su impacto en la salud, el medioambiente y las personas. Actualmente me estoy formando en programación y ciencia de datos.
 
-Here are some ideas to get you started:
+Me interesa desarrollar soluciones que ayuden a tomar decisiones basadas en datos, mejorar procesos y contribuir a proyectos con propósito social.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Habilidades
+- Análisis de datos (R, SQL)
+- Visualización de datos
+- Programación en Java (nivel inicial)
+- Limpieza y transformación de datos
+- Resolución de problemas y pensamiento analítico
+
+🌱 Actualmente aprendiendo
+- Desarrollo de software (Java)
+- Modelado de datos 
+- Buenas prácticas en programación
+
+🤝 Conectemos
+
+💼 LinkedIn :: https://www.linkedin.com/in/catalina-cifuentes-d%C3%ADaz-531292145/
+
+
