@@ -18,6 +18,6 @@ Me interesa desarrollar soluciones que ayuden a tomar decisiones basadas en dato
 
 🤝 Conectemos
 
-💼 LinkedIn :: https://www.linkedin.com/in/catalina-cifuentes-d%C3%ADaz-531292145/
+💼 LinkedIn :: https://www.linkedin.com/in/catalina-cifuentes-diaz/
 
 
